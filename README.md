@@ -12,4 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
