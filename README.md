@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0812-largest-triangle-area](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/0812-largest-triangle-area) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3637-trionic-array-i](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/3637-trionic-array-i) |
 | [3731-find-missing-elements](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/3731-find-missing-elements) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/0812-largest-triangle-area) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -31,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
