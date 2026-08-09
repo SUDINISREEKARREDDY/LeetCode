@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0495-teemo-attacking](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/0495-teemo-attacking) |
 | [0812-largest-triangle-area](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/0812-largest-triangle-area) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3637-trionic-array-i](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/3637-trionic-array-i) |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
