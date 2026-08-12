@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/0495-teemo-attacking) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SUDINISREEKARREDDY/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
